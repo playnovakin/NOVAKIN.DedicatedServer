@@ -8,7 +8,7 @@ These are simple instructions to setup a NOVAKIN Dedicated Server
 4) Modify the config file to suit your needs, then Save.
 5) Return back to the folder with the DedicatedServer batch file and run it again.
 
-The server should now start. Make sure to configure your firewall and router for port forwarding!
+The server should now start. Make sure to configure your firewall and router for port forwarding! (I do 26000 - 28000 TCP and UDP)
 Everytime you run the DedicatedServer batch file it will automatically download any needed updates.
 
 If you need additional help, contact us on Discord at https://discordapp.com/invite/0j6SAwMNL7uUlmBp
