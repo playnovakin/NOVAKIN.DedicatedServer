@@ -5,7 +5,7 @@ These are simple instructions to setup a NOVAKIN Dedicated Server
 1) Run the DedicatedServer batch file, it will open a command prompt and download the required files.
 2) After the file download has completed, the server will automatically start. Close the command prompt window.
 3) Browse to the CommonRedist folder and install all the crap in there.
-4) Browse to NOVAKIN_Data/StreamingAssets/Config folder. Open the serverConfig.json file with any text editor.
+4) Browse to \NOVAKIN_Data\StreamingAssets\Config\ folder. Open the serverConfig.json file with any text editor.
 5) Modify the config file to suit your needs, then Save.
 6) Return back to the folder with the DedicatedServer batch file and run it again.
 
